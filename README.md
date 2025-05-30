@@ -1,4 +1,4 @@
-# crazyflie ros
+# Crazyflie ROS
 Crazyflie ROS workspace for control & autonomous navigation of Crazyflie UAVs.
 
 <!-- First Row -->
